@@ -64,7 +64,7 @@
                 ของ Beru ทำให้ผิวหน้ากระจ่างใส ลดริ้วรอย ลดสิว และให้ความชุ่มชื่นและ<br>
                 ขจัดสิ่งสกปรกระดับรูขุมขนแบบมองเห็นด้วยตาเปล่า
               </p>
-              <button class="btn btn-secondary btn-md text-uppercase g-font-weight-700 g-font-size-16 g-rounded-3 g-px-40 g-py-10 mb-0" type="submit" role="button">สั่งซื้อ</button>
+              <a class="btn btn-secondary btn-md text-uppercase g-font-weight-700 g-font-size-16 g-rounded-3 g-px-40 g-py-10 mb-0" href="#purchase-link">สั่งซื้อ</a>
             </div>
           </div>
         </div>
@@ -150,7 +150,7 @@
               </div>
             </div>
             <div class="col-md-12 g-mt-40 text-center">
-              <button class="btn btn-secondary btn-md text-uppercase g-font-weight-700 g-font-size-16 g-rounded-3 g-px-80 g-py-10 mb-0" type="submit" role="button">สั่งซื้อ</button>
+              <a class="btn btn-secondary btn-md text-uppercase g-font-weight-700 g-font-size-16 g-rounded-3 g-px-80 g-py-10 mb-0" href="#purchase-link">สั่งซื้อ</a>
             </div>
           </div>
         </div>
@@ -223,59 +223,39 @@
       </section>
 
       <!-- Section Promotion -->
-      <section class="g-pb-20">
+      <section id="purchase-link" class="g-pb-20">
         <div class="container g-pt-60 g-pb-0">
           <div class="row g-mb-20">
             <div class="col-md-5 g-mb-20 align-self-center">
               <div class="row no-gutters">
                 <div class="col-md-12">
                   <!-- Icon Blocks -->
-                  <div class="g-brd-around--md g-bg-white text-center g-pa-10 g-px-0--lg g-py-0--lg min-height-1_5">
-                    <span class="d-block g-color-gray-dark-v4 g-font-size-40">
-                      <i class="fa fa-mobile"></i>
-                    </span>
-                    <h3 class="h5 g-color-black g-mb-10">โทรศัพท์</h3>
-                    <a href="tel:0951355225"><p class="g-color-gray-dark-v4 g-mb-0">095-135-5225</p></a>
-                    <div class="d-inline-block g-width-200 g-brd-bottom g-brd-gray-dark-v5 g-my-5"></div>
+                  <div class="g-brd-around--md g-bg-white text-center g-pa-10 g-px-0--lg g-py-0--lg min-height-1_5 g-mb-40">
+                    <a href="tel:0951355225"><img class="img-fluid" src="assets/img/beru-tel-bt.png"></a>
                   </div>
                   <!-- End Icon Blocks -->
                 </div>
       
                 <div class="col-md-12">
                   <!-- Icon Blocks -->
-                  <div class="g-brd-around--md g-bg-white text-center g-pa-10 g-px-0--lg g-py-0--lg min-height-1_5">
-                    <span class="d-block g-color-gray-dark-v4 g-font-size-40 g-mb-5">
-                      <img style="width: 40px; opacity: 0.5;" src="assets/img/Line_A.png">
-                    </span>
-                    <h3 class="h5 g-color-black g-mb-10">LINE</h3>
-                    <a href="https://line.me/R/ti/p/%40958fzhfh" target="_blank"><p class="g-color-gray-dark-v4 g-mb-0">@beruonlineshop9</p></a>
-                    <div class="d-inline-block g-width-200 g-brd-bottom g-brd-gray-dark-v5 g-my-5"></div>
+                  <div class="g-brd-around--md g-bg-white text-center g-pa-10 g-px-0--lg g-py-0--lg min-height-1_5 g-mb-40">
+                    <a href="https://line.me/R/ti/p/%40958fzhfh" target="_blank"><img class="img-fluid" src="assets/img/beru-ln_bt.png"></a>
                   </div>
                   <!-- End Icon Blocks -->
                 </div>
       
                 <div class="col-md-12">
                   <!-- Icon Blocks -->
-                  <div class="g-brd-around--md g-bg-white text-center g-pa-10 g-px-0--lg g-py-0--lg min-height-1_5">
-                    <span class="d-block g-color-gray-dark-v4 g-font-size-40">
-                      <i class="fa fa-facebook-official"></i>
-                    </span>
-                    <h3 class="h5 g-color-black g-mb-10">FACEBOOK</h3>
-                    <a href="https://www.facebook.com/BeruOnlineShop/" target="_blank"><p class="g-color-gray-dark-v4 g-mb-0">Beru Bio-Cellulose Mask Thailand -มาร์กหน้าบีรุ</p></a>
-                    <div class="d-inline-block g-width-200 g-brd-bottom g-brd-gray-dark-v5 g-my-5"></div>
+                  <div class="g-brd-around--md g-bg-white text-center g-pa-10 g-px-0--lg g-py-0--lg min-height-1_5 g-mb-40">
+                    <a href="https://www.facebook.com/BeruOnlineShop/" target="_blank"><img class="img-fluid" src="assets/img/beru-fb-bt.png"></a>
                   </div>
                   <!-- End Icon Blocks -->
                 </div>
 
                 <div class="col-md-12">
                   <!-- Icon Blocks -->
-                  <div class="g-brd-around--md g-bg-white text-center g-pa-10 g-px-0--lg g-py-0--lg min-height-1_5">
-                    <span class="d-block g-color-gray-dark-v4 g-font-size-40">
-                      <i class="fa fa-instagram"></i>
-                    </span>
-                    <h3 class="h5 g-color-black g-mb-10">Instagram</h3>
-                    <a href="https://www.instagram.com/beruonlineshop9/?hl=th" target="_blank"><p class="g-color-gray-dark-v4 g-mb-0">beruonlineshop9</p></a>
-                    <div class="d-inline-block g-width-200 g-brd-bottom g-brd-gray-dark-v5 g-my-5"></div>
+                  <div class="g-brd-around--md g-bg-white text-center g-pa-10 g-px-0--lg g-py-0--lg min-height-1_5 g-mb-40">
+                    <a href="https://www.instagram.com/beruonlineshop9/?hl=th" target="_blank"><img class="img-fluid" src="assets/img/beru-ins-bt.png"></a>
                   </div>
                   <!-- End Icon Blocks -->
                 </div>
@@ -291,39 +271,47 @@
                 </div>
                 <!-- End Heading -->
               </div>
-              <form>
+
+              <form name="purchase-form" id="purchase-form" method="POST">
                 <div class="row">
-                  <div class="col-md-6 form-group g-color-gray-dark-v5 g-mb-30">
-                    <input id="inputGroup1_1" class="form-control g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 brd-primary--hover g-rounded-3 g-px-10 g-py-13" type="text" placeholder="ชื่อผู้รับ">
+                  <div class="col-md-12 form-group g-mb-20 contact-display-inline-flex">
+                      <label class="g-color-gray-dark-v2 label-set-center-middle g-width-60">สินค้า :</label>
+                      <select name="product" id="product" class="form-control g-brd-gray-light-v4 g-brd-primary--focus rounded-3">
+                        <option style="padding: 10px;" value="">เลือกรายการสินค้า</option>
+                        <option value="Nuuna : 1 กล่อง">1 กล่อง : 490.-</option>
+                        <option value="Nuuna : 3 กล่อง">3 กล่อง : 990.-</option>
+                        <option value="Nuuna : 4 แถม 3b 1">4 กล่อง (แถมฟรี! ครีมกันแดด 6b) : 1,290.-</option>
+                        <option value="Nuuna : 6 แถม 1 กล่อง">6 กล่อง (แถมฟรี! 1 กล่อง) : 1,990.-</option>
+                      </select>
+                  </div>
+                  <div class="col-md-6 form-group g-mb-20 contact-display-inline-flex">
+                      <label class="g-color-gray-dark-v2 label-set-center-middle g-width-70">ชื่อผู้รับ :</label>
+                      <input class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="text" name="fullname" id="fullname" placeholder="ชื่อ-นามสกุล">
                   </div>
   
-                  <div class="col-md-6 form-group g-color-gray-dark-v5 g-mb-30">
-                    <input id="inputGroup1_2" class="form-control g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 brd-primary--hover g-rounded-3 g-px-10 g-py-13" type="tel" placeholder="หมายเลขโทรศัพท์ (ใส่เฉพาะตัวเลขเท่านั้น)">
+                  <div class="col-md-6 form-group g-mb-20 contact-display-inline-flex">
+                      <label class="g-color-gray-dark-v2 label-set-center-middle g-width-60">โทร :</label>
+                      <input class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="tel" name="mobile" id="mobile">
                   </div>
   
-                  <div class="col-md-12 form-group g-color-gray-dark-v5 g-mb-30">
-                    <select id="inputGroup1_3" class="form-control g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 brd-primary--hover g-rounded-3 g-px-10" style="height: 3.3rem;">
-                      <option style="padding: 10px;" value="">เลือกรายการสินค้า</option>
-                      <option value="Nuuna : 1 กล่อง">1 กล่อง : 490.-</option>
-                      <option value="Nuuna : 3 กล่อง">3 กล่อง : 990.-</option>
-                      <option value="Nuuna : 4 แถม 3b 1">4 กล่อง (แถมฟรี! ครีมกันแดด 6b) : 1,290.-</option>
-                      <option value="Nuuna : 6 แถม 1 กล่อง">6 กล่อง (แถมฟรี! 1 กล่อง) : 1,990.-</option>
-                    </select>
+                  <div class="col-md-12 form-group g-mb-20 contact-display-inline-flex">
+                      <label class="g-color-gray-dark-v2 label-set-center-middle g-width-60">ที่อยู่ :</label>
+                      <textarea class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15" rows="5" name="address" id="address" placeholder="บ้านเลขที่ ถนน ซอย อาคาร หมู่บ้าน ตำบล อำเภอ จังหวัด รหัสไปรษณีย์"></textarea>
                   </div>
-  
-                  <div class="col-md-12 form-group g-color-gray-dark-v5 g-mb-30">
-                    <textarea id="inputGroup1_4" class="form-control g-resize-none g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 brd-primary--hover g-rounded-3 g-px-10 g-py-13" rows="6" placeholder="ที่อยู่ : บ้านเลขที่ ถนน ซอย อาคาร หมู่บ้าน ตำบล อำเภอ จังหวัด รหัสไปรษณีย์"></textarea>
-                  </div>
-  
-                  <div class="col-md-12 form-group g-color-gray-dark-v5 g-mb-30">
-                    <textarea id="inputGroup1_5" class="form-control g-resize-none g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 brd-primary--hover g-rounded-3 g-px-10 g-py-13" rows="4" placeholder="รายละเอียด / หมายเหตุ (ถ้ามี)"></textarea>
+                  <div class="col-md-12 form-group g-mb-40 contact-display-inline-flex">
+                      <label class="g-color-gray-dark-v2 label-set-center-middle g-width-80">หมายเหตุ :</label>
+                      <textarea class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15" rows="5" name="description" id="description" placeholder="รายละเอียด / หมายเหตุ (ถ้ามี)"></textarea>
                   </div>
                 </div>
+                <input type="hidden" name="redirect" id="redirect" value="https://chepose.wesales.online/thankyou.php"/>
+                <input type="hidden" name="lineid" id="lineid" value=""/>
+                <input type="hidden" name="sms" id="sms" value="1"/>
   
-                <div class="text-center">
-                  <button class="btn btn-secondary btn-md text-uppercase g-font-weight-700 g-font-size-12 g-rounded-3 g-px-40 g-py-15 mb-0" type="submit" role="button">ส่งข้อมูล</button>
+                <div class="col-md-12 text-center">
+                  <button class="btn btn-secondary btn-md text-uppercase g-font-weight-700 g-font-size-12 g-rounded-3 g-px-40 g-py-15 mb-0" type="submit" role="button" disabled="" id="bt-purchase-form-submit">ส่งข้อมูลการสั่งซื้อ</button>
                 </div>
               </form>
+
             </div>
           </div>
         </div>
@@ -338,29 +326,7 @@
         </div>
       </section>
 
-      <footer>
-        <div class="g-color-gray-dark-v5 g-theme-bg-gray-dark-v3">
-          <div class="container">
-            <div class="text-center text-md-left g-brd-top g-brd-gray-dark-v2 g-py-20">
-              <div class="row">
-                <div class="col-md-6 d-flex align-items-center g-mb-15 g-mb-0--md">
-                  <p class="w-100 mb-0">
-                    Copyright 2019 berumask.com All Rights Reserved
-                  </p>
-                </div>
-
-                <div class="col-md-6">
-                  <ul class="list-inline float-md-right mb-0">
-                    <li class="list-inline-item g-mr-10">
-                      <a class="u-icon-v2 g-width-35 g-height-35 g-font-size-16 g-color-gray-light-v1 g-color-white--hover g-bg-primary--hover g-brd-gray-dark-v2 g-brd-primary--hover g-rounded-5" href="https://www.facebook.com/QIncaOilThai/" target="_blank"><i class="fa fa-facebook"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </footer>
+      <div id="sec-footer"></div>
 
       <a class="js-go-to u-go-to-v1" href="#!"
          data-type="fixed"
@@ -440,4 +406,8 @@
       });
     </script>
   </body>
+
+  <script src="https://assets.wesales.online/js/purchase-form-validation.js"></script>
+  <script src="https://assets.wesales.online/js/purchase-process.js"></script>
+
 </html>

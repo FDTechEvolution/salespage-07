@@ -6,6 +6,15 @@
 ้h1, h2 {
     font-family: 'athiti' !important;
 }
+
+.contact-display-inline-flex {
+    display: inline-flex;
+}
+.label-set-center-middle {
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
 .font-family-athiti {
     font-family: 'athiti';
 }
