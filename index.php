@@ -50,7 +50,18 @@
 
         <!-- Promo Block Content -->
         <div class="container">
-          <div class="row g-py-100">
+          <div class="row g-pt-20">
+            <div class="col-md-12 text-right g-line-height-1">
+              <div>
+                <a class="g-color-black" href="tel:0951355225" target="_blank"><i class="fa fa-phone mr-2"></i></a>
+                <a class="g-color-black" href="https://line.me/R/ti/p/%40958fzhfh" target="_blank"><img class="img-fluid g-width-16 mr-2 g-pb-5" src="assets/img/Line_A.png"></a>
+                <a class="g-color-black" href="https://www.facebook.com/BeruOnlineShop/" target="_blank"><i class="fa fa-facebook mr-2"></i></a>
+                <a class="g-color-black" href="https://www.instagram.com/beruonlineshop9/?hl=th" target="_blank"><i class="fa fa-instagram mr-2"></i></a>
+              </div>
+              <div class="d-inline-block g-width-50x g-height-1 g-bg-black"></div>
+            </div>
+          </div>
+          <div class="row g-py-80">
             <div class="col-md-6"></div>
             <div class="col-md-6 text-right bg-white-sm">
               <p class="lead g-mb-0 g-color-black font-family-athiti">นวัตกรรมใหม่จากเกาหลี</p>
@@ -363,6 +374,7 @@
     <script src="https://assets.wesales.online/js/components/hs.carousel.js"></script>
     <script src="https://assets.wesales.online/js/components/hs.go-to.js"></script>
     <script src="https://assets.wesales.online/js/components/hs.onscroll-animation.js"></script>
+    <script src="https://assets.wesales.online/js/footer-v1.js"></script>
 
     <!-- JS Customization -->
     <script src="assets/js/custom.js"></script>
